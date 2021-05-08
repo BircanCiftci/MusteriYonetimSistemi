@@ -1,0 +1,2 @@
+# MusteriYonetimSistemi
+İnterface, abstract
